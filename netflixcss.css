@@ -1,0 +1,126 @@
+
+
+#getstarted{
+    width: auto;
+    height: auto;
+    background-image: url('images/front\ page.jpg');
+    padding-top: 4%;
+    padding-left: 16%;
+    padding-right: 16%;
+    padding-bottom: 16%;
+    margin-bottom: 0%;
+}
+
+.me{
+    text-align: center;
+    color: red;
+    padding-top: 0;
+    padding-bottom: 3%;
+}
+
+.you{
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 3%;
+}
+
+.middle{
+    text-decoration: solid;
+    padding-top: 10%;
+    text-align: center;
+    color: white;
+
+}
+.ghgh{
+    opacity: 30%;
+}
+.randi{
+   
+    padding-top: 2%;
+    text-align: center;
+}
+
+hr{
+    margin-top: 0%;
+    margin-bottom: 0%;
+   border-color: grey;
+   border: solid;
+}
+
+#magic{
+    margin-top: 0%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.mummy{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 15%;
+    color: white;
+}
+
+.tv{
+   width: 25%;
+   height: 25%;
+   float: right;
+}
+.mobile{
+    float: left;
+    width: 30%;
+   height: 30%;
+}
+
+.daddy{
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+.ff{
+    padding-top: 10%;
+}
+.device{
+    float: right;
+    width: 30%;
+   height: 30%;
+}
+.ndh{
+    float: left;
+    width: 30%;
+   height: 30%;
+}
+.brother{
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+.sister{
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+#FAQ{
+    background-color: black;
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+.puneet{
+    padding-top: 2%;
+}
+.zingo{
+    color: black;
+}
+.btn-me {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#footer{
+    background-color: black;
+    color: white;
+}
+.mohit{
+    padding-top: 3%;
+    padding-left: 3%;
+}
+.card{
+    background-color: black;
+    color: white;
+}
